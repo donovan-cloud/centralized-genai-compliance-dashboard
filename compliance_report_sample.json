@@ -1,0 +1,10 @@
+{
+    "ReportDate": "2026-05-31",
+    "ComplianceStatus": "STABLE",
+    "Metrics": {
+        "BlockedPromptInjections": 42,
+        "PIIMaskingEvents": 128,
+        "TopViolatingPrincipal": "arn:aws:iam::123456789012:user/dev-internal-app",
+        "MostActiveGuardrail": "SSN-Masking-Filter"
+    }
+}
